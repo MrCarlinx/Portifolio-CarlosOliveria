@@ -1,6 +1,6 @@
 
 Bem-vindo ao meu portfólio!  
-Sou formado em **Tecnologia da Informação** e apaixonado por redes, infraestrutura e desenvolvimento de soluções tecnológicas.  
+Sou formado em **Técnico em Informática** e apaixonado por redes, infraestrutura e desenvolvimento de soluções tecnológicas.  
 Aqui você encontrará projetos que demonstram minhas habilidades práticas e meu aprendizado contínuo.
 
 ## 🚀 Tecnologias e Ferramentas
